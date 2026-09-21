@@ -1,0 +1,5 @@
+﻿10.0.0.12 - - [21/Sep/2026:10:00:01] "GET /index.html HTTP/1.1" 200 1024 "Mozilla/5.0"
+198.51.100.44 - - [21/Sep/2026:10:00:12] "GET /etc/passwd HTTP/1.1" 404 230 "Nikto/2.1.6"
+10.0.0.15 - - [21/Sep/2026:10:00:15] "GET /about.html HTTP/1.1" 200 2048 "Mozilla/5.0"
+203.0.113.88 - - [21/Sep/2026:10:00:22] "GET /login.php?user=admin'-- HTTP/1.1" 200 4520 "Mozilla/5.0"
+198.51.100.120 - - [21/Sep/2026:10:01:05] "GET /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 180 "Gobuster/3.1"
